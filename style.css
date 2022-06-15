@@ -67,3 +67,11 @@
     /* border: grey solid 1px; */
     cursor: pointer;
 }
+@media only screen and (max-width: 600px){
+    #search{
+        width: 22em;
+    }
+    .favourites{
+        width: 24em;
+    }
+}
